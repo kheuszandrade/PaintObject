@@ -1,0 +1,2 @@
+# PaintObject
+UPBGE Component
