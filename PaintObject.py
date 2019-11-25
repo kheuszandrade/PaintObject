@@ -1,3 +1,10 @@
+##################################################################################
+# Name: Paint Object                                                             #
+# Description: Paint the vertices from mesh and place objects in vertex position #
+# Version: 1.0                                                                   #
+# Author: Samuel Andrade                                                         #
+##################################################################################
+
 from bge import *
 from mathutils import Vector
 import random
